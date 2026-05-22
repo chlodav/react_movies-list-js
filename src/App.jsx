@@ -9,7 +9,7 @@ export const App = () => (
     <div className="page-content">
       <MovieList movies={moviesFromServer} />
       <div className="sidebar" data-cy="Sidebar">
-        Sidebar
+        Sidebar will be here
       </div>
     </div>
   </div>
